@@ -27,12 +27,12 @@
 * 进入G:\go\src\chatroom\Redis-x64-3.2.100，点击redis-server.exe 运行redis服务端
 
 * 在cmd中执行指令生成可执行程序(src目录)：
-* > `go build -o chatroom/server.exe chatroom/server/main`
-* > `go build -o chatroom/client.exe chatroom/client/main`
-* > `start chatroom/server.exe`
-* > `start chatroom/client.exe`
+> `go build -o chatroom/server.exe chatroom/server/main`</br>
+> `go build -o chatroom/client.exe chatroom/client/main`</br>
+> `start chatroom/server.exe`</br>
+> `start chatroom/client.exe`</br>
 
 * 如需测试群发则启动多个客户端
-* > `start chatroom/client.exe`
-* > `start chatroom/client.exe`
-* > `start chatroom/client.exe`
+> `start chatroom/client.exe`</br>
+> `start chatroom/client.exe`</br>
+> `start chatroom/client.exe`</br>
